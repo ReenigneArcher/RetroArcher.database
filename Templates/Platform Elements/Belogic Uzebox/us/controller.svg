@@ -11,10 +11,10 @@
    version="1.1"
    id="svg44"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Belogic Uzebox\us\controller.png"
-   inkscape:export-xdpi="49.047993"
-   inkscape:export-ydpi="49.047993"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="21.799109"
+   inkscape:export-ydpi="21.799109"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata50">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg44" />
+     inkscape:current-layer="svg44"
+     inkscape:document-rotation="0" />
   <path
      d="M226.677 359.573c0-1.359-.113-2.929-.71-4.269-.595-1.34-1.87-2.466-3.672-2.466v.884c-.348-.019-.865.027-.878.456l.168 61.06c-.664 21.81-7.004 40.758-17.119 57.372-.355.705.383 1.006.671.999a39.897 39.897 0 0 0 2.835-.208v.087c1.167 0 2.064.101 2.929 0 .858-.1 1.73-.59 2.219-1.481.007-.007.027.007.034 0 0-.007-.007-.021 0-.027 9.216-16.393 13.524-35.288 13.524-55.368v-57.039zm0 0M226.677 169.023c0 1.361-.113 2.929-.71 4.269-.595 1.347-1.87 2.467-3.672 2.467v-.879c-.348.014-.865-.034-.878-.456l.168-61.066c-.664-21.803-7.004-40.751-17.119-57.365-.355-.703.383-1.012.671-.999 1.172.046 2.097.12 2.835.208v-.087c1.167 0 2.064-.101 2.929 0 .858.094 1.73.583 2.219 1.474.007.007.027-.005.034 0 0 .007-.007.021 0 .027 9.216 16.402 13.524 35.288 13.524 55.377v57.03zm0 0"
      fill="#bdbdbd"

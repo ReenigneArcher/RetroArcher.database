@@ -11,10 +11,10 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Atari Jaguar\logo.png"
-   inkscape:export-xdpi="62.138149"
-   inkscape:export-ydpi="62.138149"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="89.186172"
+   inkscape:export-ydpi="89.186172"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg16" />
+     inkscape:current-layer="svg16"
+     inkscape:document-rotation="0" />
   <path
      fill="red"
      d="M150 45.5c1 .3 1.5-.8 2.3-1.3 1.2-.7 12.5-4.3 12.6-4.4 1.1-1.1-.6-3.9.4-4.5 1.1-.7 3.3-.3 4.1-.9 4.3-2.6 10.9-2.7 15.1-5.4 1.3-.8 2.5-3 3.9-3.5 2.8-1.1 6.1-1.1 9.1-2.3 1.5-.6 2-3.1 2.9-4.1 1.7-2 3.7-2.5 5.8-4.1 3-2.4-11.4.5-6.1-4.8 5-5 25.3-3 27.3-5l.4-.6c1.4-1.4 4.8.3 4.8-3.5V0c-.2-.1-13 1.3-14 1.5-8.6 2.1-19.4 1.1-27.3 3.5-3.4 1-21 3.8-22.3 5.1l-3.1 2.2c-14.6 2.9-29.4 4.6-44 7-7.3 1.2-17.8 1.5-24.2 3.6-5.8 1.9-15.1 2.4-20.8 4-4.5 1.3-17.3-1.5-21.3.3-.9.4-1.9 4.9-1.3 5.5.5.6 2.2.4 2.9.9.6.4 1.6.9 1.3 1.9-.5 1.3-5.7-.2-7 2-1.6 2.7 4.1 6.5 5.1 8.1 1.5 2.5-4.5 3.7-3.1 7H56c1.3 0 2.3.4 3.1 1.6l1.1.9c2.4 3.4 58-6 58-6s-16.3 138.7-82 146c-15 1.7-30.9-17.6-32-18-1-.4-2.9-.5-3.6 0-.6.5-1.4 3.5.6 5.8 7.5 8.5 29.7 26.8 51.9 26.2C122.3 207.4 150 45.5 150 45.5z"
