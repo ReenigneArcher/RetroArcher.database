@@ -11,10 +11,10 @@
    version="1.1"
    id="svg30"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Daphne\controller.png"
-   inkscape:export-xdpi="77.350044"
-   inkscape:export-ydpi="77.350044"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="34.377796"
+   inkscape:export-ydpi="34.377796"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata36">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg30" />
+     inkscape:current-layer="svg30"
+     inkscape:document-rotation="0" />
   <ellipse
      transform="rotate(-45.001 85.098 167.502)"
      fill="#231F20"

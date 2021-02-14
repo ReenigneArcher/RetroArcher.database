@@ -11,10 +11,10 @@
    version="1.1"
    id="svg43"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Dragon 32\us\logo.png"
-   inkscape:export-xdpi="83.426163"
-   inkscape:export-ydpi="83.426163"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="154.49289"
+   inkscape:export-ydpi="154.49289"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg43" />
+     inkscape:current-layer="svg43"
+     inkscape:document-rotation="0" />
   <path
      d="M559.249 75.466c0 3.154-2.15 5.714-4.801 5.714H4.801C2.15 81.18 0 78.62 0 75.466V5.715C0 2.56 2.15 0 4.801 0h549.646c2.651 0 4.801 2.56 4.801 5.715v69.751h.001z"
      id="path2" />
