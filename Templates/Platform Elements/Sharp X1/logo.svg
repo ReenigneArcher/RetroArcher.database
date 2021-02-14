@@ -7,14 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 686.659 132.717"
+   viewBox="0 0 419.54401 132.717"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Sharp X1\logo.png"
-   inkscape:export-xdpi="67.946388"
-   inkscape:export-ydpi="67.946388"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="180.83592"
+   inkscape:export-ydpi="180.83592"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="419.54401"
+   height="132.717">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,17 +50,23 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <text
-     transform="translate(428.15 129.717)"
-     fill="red"
+     fill="#ff0000"
      font-family="ArialMT"
-     font-size="5"
-     id="text2">I don’t like bugs!</text>
+     font-size="5px"
+     id="text2"
+     x="293.80701"
+     y="129.717">I don’t like bugs!</text>
   <path
-     d="M326.021 59.784L292.493 0h92.503l-58.975 59.784zM307.04 8.52l20.87 37.215L364.623 8.52H307.04zM235.148 132.717H134.343l63.751-62.555 37.054 62.555zm-79.957-8.52h65.008l-23.896-40.341-41.112 40.341z"
+     d="M 191.678,59.784 158.15,0 h 92.503 z M 172.697,8.52 193.567,45.735 230.28,8.52 Z M 100.805,132.717 H 0 L 63.751,70.162 Z m -79.957,-8.52 H 85.856 L 61.96,83.856 Z"
      id="path4" />
   <path
-     d="M427.386 0l-29.444 30.803h35.777l-52.553 93.393h-33.713L276.015 0H173.742l77.039 132.717h226.767L553.887 0H427.386zM255.687 124.197L188.539 8.52h82.548l66.537 115.677h-81.937zm216.933 0h-81.678l57.347-101.914h-30.417L431.028 8.52h108.129L472.62 124.197z"
+     d="m 293.043,0 -29.444,30.803 h 35.777 l -52.553,93.393 H 213.11 L 141.672,0 H 39.399 l 77.039,132.717 H 343.205 L 419.544,0 Z M 121.344,124.197 54.196,8.52 h 82.548 l 66.537,115.677 z m 216.933,0 H 256.599 L 313.946,22.283 H 283.529 L 296.685,8.52 h 108.129 z"
      id="path6" />
 </svg>

@@ -11,10 +11,10 @@
    version="1.1"
    id="svg170"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\SNK Neo Geo CD\us\controller.png"
-   inkscape:export-xdpi="76.269951"
-   inkscape:export-ydpi="76.269951"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="33.897808"
+   inkscape:export-ydpi="33.897808"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata176">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg170" />
+     inkscape:current-layer="svg170"
+     inkscape:document-rotation="0" />
   <path
      d="M73.742 339.1c6.126-1.171 13.458-2.298 21.096-4.441 17.466-4.9 36.53-12.604 46.419-20.433 14.214-11.252 21.913-27.243 24.282-36.423 2.369-9.18 3.85-21.617-2.961-44.418s-7.403-63.463-7.403-63.463.592-40.662 7.403-63.463 5.33-35.238 2.961-44.418-10.068-25.17-24.282-36.423c-9.889-7.829-28.953-15.534-46.419-20.433C87.2 3.043 79.868 1.915 73.742.744c-20.136-3.85-47.971 7.699-59.224 23.689S.305 49.308.009 64.114s6.953 40.317 8.884 73.141c.592 10.068 1.481 25.95 1.481 32.667s-.888 22.599-1.481 32.667C6.962 235.413-.287 260.924.009 275.73s3.257 23.689 14.51 39.68c11.252 15.991 39.087 27.539 59.223 23.69z"
      fill="#24241e"

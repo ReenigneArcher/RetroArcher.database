@@ -11,10 +11,10 @@
    version="1.1"
    id="svg138"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Sega Dreamcast\eu\consolegame.png"
-   inkscape:export-xdpi="109.97031"
-   inkscape:export-ydpi="109.97031"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="48.896435"
+   inkscape:export-ydpi="48.896435"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata144">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg138" />
+     inkscape:current-layer="svg138"
+     inkscape:document-rotation="0" />
   <path
      fill="#CDCDCD"
      d="M259.5 156.7c0-43.6 35.4-79 79-79s79 35.4 79 79-35.4 79-79 79-79-35.4-79-79zm79-11.7c-6.6 0-11.9 5.2-11.9 11.7s5.3 11.7 11.9 11.7 11.9-5.2 11.9-11.7S345 145 338.5 145z"

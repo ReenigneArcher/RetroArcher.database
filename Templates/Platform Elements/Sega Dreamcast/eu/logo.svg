@@ -12,10 +12,10 @@
    version="1.1"
    id="svg13"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Sega Dreamcast\eu\logo.png"
-   inkscape:export-xdpi="110.40778"
-   inkscape:export-ydpi="110.40778"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="204.45885"
+   inkscape:export-ydpi="204.45885"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -46,7 +46,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="svg13"
+     inkscape:document-rotation="0" />
   <defs
      id="defs5">
     <clipPath

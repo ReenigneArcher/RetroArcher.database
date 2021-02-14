@@ -11,10 +11,10 @@
    version="1.1"
    id="svg66"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Sega CD\us\controller.png"
-   inkscape:export-xdpi="129.60001"
-   inkscape:export-ydpi="129.60001"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="57.599995"
+   inkscape:export-ydpi="57.599995"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata72">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg66" />
+     inkscape:current-layer="svg66"
+     inkscape:document-rotation="0" />
   <path
      fill="#1b1d1f"
      d="M21.566018 99.957481c.212592 19.430979-1.870817 32.229069-9.013936 42.135899C6.7695568 150.17191-.28852506 158.84569.0091049 170.92097c.04251857 2.16844.29762996 7.44074 3.4014852 13.05319 1.6157055 2.93379 4.1243008 5.86757 7.9934909 8.58876 26.65914 18.7932 52.552946-3.74164 55.061542-5.52742C104.64729 159.73858 105.28507 119.60106 105.28507 100c0-19.601059-.63778-59.738589-38.819447-87.035509-2.466077-1.78578-28.402402-24.32061-55.061542-5.5274098-3.8691901 2.7211898-6.3352669 5.6549698-7.9934909 8.5887498C.30673486 21.595761.05162347 26.868071.0091049 29.036511c-.29762996 12.07527 6.7604519 20.74906 12.5429771 28.82759 7.143119 9.86431 9.18401 22.6624 9.013936 42.09338z"

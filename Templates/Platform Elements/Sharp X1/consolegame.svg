@@ -11,10 +11,10 @@
    version="1.1"
    id="svg1714"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Sharp X1\consolegame.png"
-   inkscape:export-xdpi="93.422913"
-   inkscape:export-ydpi="93.422913"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="41.521294"
+   inkscape:export-ydpi="41.521294"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata1720">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1714" />
+     inkscape:current-layer="svg1714"
+     inkscape:document-rotation="0" />
   <path
      fill="#792521"
      d="M17.482 166.792h185.917v44.375H17.482z"
@@ -110,10 +111,10 @@
      d="M164.586 172.208h6.021v2.875h-6.021z"
      id="path25" />
   <text
-     transform="translate(103.74 178.448)"
+     transform="translate(103.74,178.448)"
      fill="#e3e4e4"
      font-family="HelveticaNeue"
-     font-size="1.45"
+     font-size="1.45px"
      id="text27">CENTRAL PROCESSING UNIT</text>
   <path
      fill="none"

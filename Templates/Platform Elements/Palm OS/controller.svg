@@ -11,10 +11,10 @@
    version="1.1"
    id="svg28"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Palm OS\controller.png"
-   inkscape:export-xdpi="127.29594"
-   inkscape:export-ydpi="127.29594"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="56.575977"
+   inkscape:export-ydpi="56.575977"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg28" />
+     inkscape:current-layer="svg28"
+     inkscape:document-rotation="0" />
   <path
      d="M4.95 177.486h3.951c.463 0 .817.494.747 1.041 0 0-1.109 19.746-1.164 20.618-.245 3.929-2.726 4.474-3.594 4.474-.868 0-3.349-.546-3.594-4.474-.054-.872-1.164-20.618-1.164-20.618-.07-.547.284-1.041.747-1.041H4.83"
      fill="#232322"

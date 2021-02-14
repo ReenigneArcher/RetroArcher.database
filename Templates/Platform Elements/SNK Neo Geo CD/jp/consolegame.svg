@@ -11,10 +11,10 @@
    version="1.1"
    id="svg92"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\SNK Neo Geo CD\jp\consolegame.png"
-   inkscape:export-xdpi="54.075142"
-   inkscape:export-ydpi="54.075142"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="24.033396"
+   inkscape:export-ydpi="24.033396"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata98">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg92" />
+     inkscape:current-layer="svg92"
+     inkscape:document-rotation="0" />
   <path
      d="M766.868 307.103c-26.421 0-47.84 21.419-47.84 47.84s21.419 47.84 47.84 47.84c26.421 0 47.84-21.419 47.84-47.84s-21.419-47.84-47.84-47.84zm0 63.109c-8.433 0-15.269-6.836-15.269-15.269s6.836-15.269 15.269-15.269 15.269 6.836 15.269 15.269-6.836 15.269-15.269 15.269z"
      fill="#e8e8e8"

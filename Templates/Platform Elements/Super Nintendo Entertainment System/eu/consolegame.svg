@@ -11,10 +11,10 @@
    version="1.1"
    id="svg147"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Super Nintendo Entertainment System\eu\consolegame.png"
-   inkscape:export-xdpi="72.9814"
-   inkscape:export-ydpi="72.9814"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="32.436176"
+   inkscape:export-ydpi="32.436176"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata153">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg147" />
+     inkscape:current-layer="svg147"
+     inkscape:document-rotation="0" />
   <path
      d="M287.093 24.208C287.093 5.516 275.755 0 266.562 0c-2.422 0-10.812.021-22.176.053v4.312h-4.434v-4.3l-4.871.014v4.286h-4.434V.091l-4.871.014v4.26h-4.434V.117l-4.871.014v4.233h-4.434V.144l-4.871.014v4.207h-4.434V.17l-4.871.014v4.181h-4.434V.196l-4.871.013v4.155h-4.434V.221l-4.871.013v4.13h-4.434V.246l-4.871.012v4.107h-4.434V.269l-4.871.011v4.084h-4.434V.29l-4.871.009v4.066h-4.434V.305l-2.435.001-2.436-.001v4.06H137.6V.299L132.729.29v4.075h-4.434V.28l-4.871-.011v4.096h-4.434V.258l-4.871-.012v4.119h-4.434V.235l-4.871-.013v4.143h-4.434V.209L95.509.196v4.169h-4.434V.184L86.204.17v4.195H81.77V.158L76.899.144v4.221h-4.434V.131L67.594.117v4.247H63.16V.104L58.289.09v4.274h-4.434V.079L48.984.065v4.3H44.55V.053C33.189.021 24.799 0 22.377 0 13.184 0 1.846 5.516 1.846 24.208c0 18.693-3.411 288.662-.959 304.904 2.451 18.999 11.644 26.047 27.886 26.047s115.698-.667 115.698-.667 99.456.667 115.697.667 25.434-7.048 27.886-26.047c2.45-16.241-.961-286.211-.961-304.904z"
      fill="#d9d9d9"

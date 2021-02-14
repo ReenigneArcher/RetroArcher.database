@@ -11,10 +11,10 @@
    version="1.1"
    id="svg36"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\TIC-80\consolegame.png"
-   inkscape:export-xdpi="144.80447"
-   inkscape:export-ydpi="144.80447"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="64.357544"
+   inkscape:export-ydpi="64.357544"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata42">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg36" />
+     inkscape:current-layer="svg36"
+     inkscape:document-rotation="0" />
   <g
      fill="#f4f4f4"
      id="g8">
