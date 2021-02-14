@@ -11,10 +11,10 @@
    version="1.1"
    id="svg42"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Commodore Amiga\logo.png"
-   inkscape:export-xdpi="125.98181"
-   inkscape:export-ydpi="125.98181">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="233.29965"
+   inkscape:export-ydpi="233.29965">
   <metadata
      id="metadata48">
     <rdf:RDF>
@@ -44,10 +44,11 @@
      inkscape:zoom="2.1690206"
      inkscape:cx="92.251823"
      inkscape:cy="10.83335"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg42" />
+     inkscape:current-layer="svg42"
+     inkscape:document-rotation="0" />
   <path
      fill="#025"
      d="M-23.585393 344.79999C-45.944045 344.79999-64 362.93278-64 385.21459c0 22.35865 18.132789 40.41461 40.414607 40.41461 4.302696 0 8.451724-.6915 12.293416-1.92085v-20.2073c-3.380689 1.92085-7.299216 3.07335-11.448244 3.07335-12.293416 0-22.204983-9.60423-22.204983-21.35981s9.9884-21.35981 22.204983-21.35981c4.225862 0 8.144389 1.15251 11.448244 3.07336v-20.20731c-3.841692-1.22934-7.99072-1.92084-12.293416-1.92084zm12.677586 25.04783h30.11887l-13.5227582 14.0606H-10.907807"

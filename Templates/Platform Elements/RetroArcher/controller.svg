@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="331.9881"
+   viewBox="0 0 202.41154 331.9881"
+   width="202.41154"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="controller.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <radialGradient
+     id="a"
+     cx="3496.9575"
+     cy="388.73517"
+     gradientTransform="matrix(-0.25909666,0,0,-0.42496101,927.77488,331.98811)"
+     gradientUnits="userSpaceOnUse"
+     r="722.62866">
+    <stop
+       offset="0"
+       stop-color="#f9be03"
+       id="stop2" />
+    <stop
+       offset="1"
+       stop-color="#cc7c19"
+       id="stop4" />
+  </radialGradient>
+  <path
+     d="M 202.41155,331.98811 H 106.18311 L 0,165.99405 106.18311,0 h 96.22844 L 96.22845,165.99405 Z"
+     fill="url(#a)"
+     id="path9"
+     style="fill:url(#a);fill-rule:evenodd;stroke-width:0.331822"
+     inkscape:export-filename="controller.png"
+     inkscape:export-xdpi="34.700039"
+     inkscape:export-ydpi="34.700039" />
+</svg>

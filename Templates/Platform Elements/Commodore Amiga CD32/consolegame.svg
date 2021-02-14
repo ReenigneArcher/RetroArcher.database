@@ -11,10 +11,10 @@
    version="1.1"
    id="svg296"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Commodore Amiga CD32\consolegame.png"
-   inkscape:export-xdpi="55.343105"
-   inkscape:export-ydpi="55.343105"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="24.596935"
+   inkscape:export-ydpi="24.596935"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata302">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg296" />
+     inkscape:current-layer="svg296"
+     inkscape:document-rotation="0" />
   <path
      d="M867.901 263.995c-31.298 0-56.669 25.372-56.669 56.669s25.372 56.669 56.669 56.669c31.298 0 56.669-25.372 56.669-56.669s-25.372-56.669-56.669-56.669zm0 74.757c-9.99 0-18.088-8.098-18.088-18.088s8.098-18.088 18.088-18.088 18.088 8.098 18.088 18.088-8.099 18.088-18.088 18.088z"
      fill="#b5b5b5"

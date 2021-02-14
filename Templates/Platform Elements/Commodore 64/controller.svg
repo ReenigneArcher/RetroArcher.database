@@ -12,10 +12,10 @@
    version="1.1"
    id="svg20"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Commodore 64\controller.png"
-   inkscape:export-xdpi="129.60001"
-   inkscape:export-ydpi="129.60001"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -48,7 +48,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg20" />
+     inkscape:current-layer="svg20"
+     inkscape:document-rotation="0" />
   <path
      fill="#b7b6a8"
      d="M176.9863 200H23.013699C10.410959 200 0 189.58904 0 176.9863V23.013699C0 10.410959 10.410959 0 23.013699 0H176.84932c12.73972 0 23.01369 10.410959 23.01369 23.013699V176.84932C200 189.58904 189.58904 200 176.9863 200z"
