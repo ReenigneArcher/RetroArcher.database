@@ -5,7 +5,7 @@ This repository is a collection of video game posters. Maybe other items can be 
 To contribute please follow these guidelines.
 
 
-#Poster Template - Games
+# Poster Template - Games
 All posters should be added in the `retroarcher_poster_template.psd`. This will make things easy to recreate if a format change occurs.
 
 Each game should have a group layer folder inside the `Platform Images\<platform>` group layer.
@@ -19,7 +19,7 @@ The image size area 0 to 1000 pixels in X and Y. The image can exceed this and w
 A PSD is not really a file that easy to collaborate on, therefore I request that if you are making additions, please create a pull request relatively early so I know there are pending changes. Then continue making your adjustments.
 
 
-#Poster Template - Platforms
+# Poster Template - Platforms
 Platforms are more difficult to add. Each platform will require several SVG and PNG images.
 
 SVG images:
@@ -55,7 +55,7 @@ Adjust the position of each PNG according to the list below.
  - band4 (no re-adjustment needed)
 
 
-#Posters
+# Posters
 All posters should be saved from the `retroarcher_poster_template.psd`.
 
 The following layers groups should be enabled:

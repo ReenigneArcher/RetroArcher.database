@@ -1,0 +1,1 @@
+Many images and colors are the work of recalbox. The original repository for these is located here https://github.com/recalbox/recalbox-themes . They have moved their repository to here https://gitlab.com/recalbox/recalbox-themes .
