@@ -11,10 +11,10 @@
    version="1.1"
    id="svg42"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Nintendo Entertainment System\controller.png"
-   inkscape:export-xdpi="84.024895"
-   inkscape:export-ydpi="84.024895"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="37.344398"
+   inkscape:export-ydpi="37.344398"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata48">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg42" />
+     inkscape:current-layer="svg42"
+     inkscape:document-rotation="0" />
   <path
      fill="#1a1919"
      d="M7.403 8.04h98.433v293.273H7.403z"

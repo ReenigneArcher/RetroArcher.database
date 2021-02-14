@@ -12,10 +12,10 @@
    version="1.1"
    id="svg338"
    sodipodi:docname="consolegame.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Nintendo Pokemon Mini\consolegame.png"
-   inkscape:export-xdpi="116.91646"
-   inkscape:export-ydpi="116.91646"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="consolegame.png"
+   inkscape:export-xdpi="51.963047"
+   inkscape:export-ydpi="51.963047"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata344">
     <rdf:RDF>
@@ -48,7 +48,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg338" />
+     inkscape:current-layer="svg338"
+     inkscape:document-rotation="0" />
   <path
      d="M86.78.013C63.72-.082 29.224-.224 15.447 21.346c-1.861 2.913-3.064 5.785-5.333 15-6.513 26.443-7.705 47.864-8.739 68.667-2.597 52.272-2.654 69.75 10.155 84.417.469.538.917 1.021.917 1.021 7.846 8.32 18.906 9.808 25.833 10.646 19.269 2.331 30.25 3 30.25 3 25.052 1.527 37.393 3.047 45 4.5 16.307 3.114 18.317 4.365 25.058 8.046.593.324 8.928 4.317 11.317 4.829 0 0 7.708 1.651 16.625-4 16.599-10.519 11.618-76.774 7.25-139.625-.082-1.186-.213-3.06-.469-5.566-1.032-10.092-4.135-40.444-17.031-56.184C143.293.246 121.145.155 86.78.013z"
      fill="#8c8c8c"
