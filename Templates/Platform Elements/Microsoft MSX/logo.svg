@@ -7,14 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 198.156 49.732"
+   viewBox="0 0 122.79 49.729002"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Microsoft MSX\logo.png"
-   inkscape:export-xdpi="379.96576"
-   inkscape:export-ydpi="379.96576"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="482.61578"
+   inkscape:export-ydpi="482.61578"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="122.79"
+   height="49.729">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -23,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,19 +50,25 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <text
-     transform="translate(141.885 47.027)"
      fill="#b63735"
      font-family="ArialMT"
-     font-size="1"
-     id="text2">I don’t like bugs!</text>
+     font-size="1px"
+     id="text2"
+     x="104.202"
+     y="47.027">I don’t like bugs!</text>
   <path
      fill="#040006"
-     d="M37.683 0h122.79v49.729H37.683z"
+     d="M 0,0 H 122.79 V 49.729 H 0 Z"
      id="path4" />
   <path
-     d="M150.759 6.997l-11.674 17.05 12.697 18.628h-11.725l-6.977-9.972-7.033 9.996h-11.648c.316-.657 12.75-18.652 12.75-18.652l-5.3-7.373-22.482.026c-1.048.083-2.334-.235-2.86.947-.184.392-.263.969-.052 1.365.182.445.603.864 1.074.995l.708.053h8.999c4.17.105 8.028 2.7 9.836 6.452 1.602 3.149 1.366 7.451-.419 10.443-2.255 3.802-6.27 5.928-10.623 5.772H81.003S77.172 28.9 77.146 28.876l-3.857 13.851-9.128.002-3.673-13.906L56.473 42.7H46.374s9.286-33.421 9.89-35.626h8.528l4.013 14.901 4.092-14.901 8.368-.002 7.162 25.95h16.685c1.151-.055 2.753.259 3.226-1.155.184-.633.028-1.287-.419-1.733-.421-.368-.945-.471-1.495-.471l-8.971-.002c-4.25-.131-8.473-2.912-10.048-7.002-1.705-4.094-.708-9.001 2.413-12.17 2.203-2.209 4.826-3.311 7.898-3.441l29.434-.026 5.931 8.551 6.136-8.576h11.542z"
-     fill="#fff"
+     d="m 113.076,6.997 -11.674,17.05 12.697,18.628 h -11.725 l -6.977,-9.972 -7.033,9.996 H 76.716 c 0.316,-0.657 12.75,-18.652 12.75,-18.652 l -5.3,-7.373 -22.482,0.026 c -1.048,0.083 -2.334,-0.235 -2.86,0.947 -0.184,0.392 -0.263,0.969 -0.052,1.365 0.182,0.445 0.603,0.864 1.074,0.995 l 0.708,0.053 h 8.999 c 4.17,0.105 8.028,2.7 9.836,6.452 1.602,3.149 1.366,7.451 -0.419,10.443 -2.255,3.802 -6.27,5.928 -10.623,5.772 H 43.32 c 0,0 -3.831,-13.827 -3.857,-13.851 L 35.606,42.727 26.478,42.729 22.805,28.823 18.79,42.7 H 8.691 c 0,0 9.286,-33.421 9.89,-35.626 h 8.528 l 4.013,14.901 4.092,-14.901 8.368,-0.002 7.162,25.95 h 16.685 c 1.151,-0.055 2.753,0.259 3.226,-1.155 0.184,-0.633 0.028,-1.287 -0.419,-1.733 -0.421,-0.368 -0.945,-0.471 -1.495,-0.471 L 59.77,29.661 C 55.52,29.53 51.297,26.749 49.722,22.659 48.017,18.565 49.014,13.658 52.135,10.489 54.338,8.28 56.961,7.178 60.033,7.048 l 29.434,-0.026 5.931,8.551 6.136,-8.576 z"
+     fill="#ffffff"
      id="path6" />
 </svg>

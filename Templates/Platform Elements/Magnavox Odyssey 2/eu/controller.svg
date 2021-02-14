@@ -11,10 +11,10 @@
    version="1.1"
    id="svg18"
    sodipodi:docname="controller.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Magnavox Odyssey 2\eu\controller.png"
-   inkscape:export-xdpi="129.60001"
-   inkscape:export-ydpi="129.60001"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="controller.png"
+   inkscape:export-xdpi="57.599998"
+   inkscape:export-ydpi="57.599998"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata24">
     <rdf:RDF>
@@ -47,7 +47,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg18" />
+     inkscape:current-layer="svg18"
+     inkscape:document-rotation="0" />
   <path
      d="M159.4 200H5.5c-3 0-5.5-2.5-5.5-5.5V5.5C0 2.5 2.5 0 5.5 0h153.9c3 0 5.5 2.5 5.5 5.5v188.9c0 3.1-2.5 5.6-5.5 5.6"
      fill="#1d1d1b"

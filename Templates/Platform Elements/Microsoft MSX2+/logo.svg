@@ -7,14 +7,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 205.76 35.274"
+   viewBox="0 0 130.394 35.275003"
    version="1.1"
    id="svg10"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\Users\ReenigneArcher\LaunchBox\Themes\RecalBigBox\Resources\Platforms\Microsoft MSX2+\logo.png"
-   inkscape:export-xdpi="357.80789"
-   inkscape:export-ydpi="357.80789"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:export-filename="logo.png"
+   inkscape:export-xdpi="662.60718"
+   inkscape:export-ydpi="662.60718"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   width="130.394"
+   height="35.275002">
   <metadata
      id="metadata16">
     <rdf:RDF>
@@ -23,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -47,21 +50,39 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
+     inkscape:current-layer="svg10"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <text
-     transform="translate(153.302 23.194)"
      fill="#c13234"
      font-family="ArialMT"
-     font-size="1"
-     id="text2">I don’t like bugs!</text>
+     font-size="1px"
+     id="text2"
+     x="115.619"
+     y="23.194"
+     inkscape:export-filename="logo.png"
+     inkscape:export-xdpi="662.60718"
+     inkscape:export-ydpi="662.60718">I don’t like bugs!</text>
   <path
-     d="M159.028 25.369h9.049v-4.478h-9.049v-9.904h-4.291v9.904h-9.05v4.478h9.05v9.905h4.291zM37.683 0h87.098v35.274H37.683z"
-     id="path4" />
+     d="m 121.345,25.369 h 9.049 v -4.478 h -9.049 v -9.904 h -4.291 v 9.904 h -9.05 v 4.478 h 9.05 v 9.905 h 4.291 z M 0,0 H 87.098 V 35.274 H 0 Z"
+     id="path4"
+     inkscape:export-filename="logo.png"
+     inkscape:export-xdpi="662.60718"
+     inkscape:export-ydpi="662.60718" />
   <path
-     d="M117.89 4.965l-8.28 12.094 9.006 13.213h-8.317l-4.949-7.074-4.989 7.091h-8.262c.224-.466 9.044-13.23 9.044-13.23l-3.759-5.23-15.947.018c-.744.059-1.656-.167-2.029.672-.13.278-.187.688-.037.968.129.316.428.613.762.706l.502.038h6.383c2.958.074 5.695 1.915 6.977 4.577 1.136 2.234.969 5.285-.298 7.408-1.599 2.697-4.447 4.205-7.535 4.094H68.411s-2.718-9.808-2.736-9.825l-2.736 9.825-6.475.001-2.605-9.864-2.848 9.843h-7.164s6.587-23.706 7.015-25.27h6.049l2.847 10.57 2.903-10.57 5.936-.001 5.08 18.407h11.835c.817-.039 1.953.184 2.288-.819a1.23 1.23 0 0 0-.298-1.229c-.299-.261-.671-.334-1.061-.334l-6.364-.001c-3.015-.093-6.01-2.065-7.127-4.967-1.209-2.904-.502-6.385 1.712-8.633 1.563-1.567 3.423-2.348 5.602-2.441l20.878-.018 4.207 6.065 4.352-6.083 8.189-.001z"
-     fill="#fff"
-     id="path6" />
+     d="m 80.207,4.965 -8.28,12.094 9.006,13.213 h -8.317 l -4.949,-7.074 -4.989,7.091 h -8.262 c 0.224,-0.466 9.044,-13.23 9.044,-13.23 l -3.759,-5.23 -15.947,0.018 c -0.744,0.059 -1.656,-0.167 -2.029,0.672 -0.13,0.278 -0.187,0.688 -0.037,0.968 0.129,0.316 0.428,0.613 0.762,0.706 l 0.502,0.038 h 6.383 c 2.958,0.074 5.695,1.915 6.977,4.577 1.136,2.234 0.969,5.285 -0.298,7.408 -1.599,2.697 -4.447,4.205 -7.535,4.094 H 30.728 c 0,0 -2.718,-9.808 -2.736,-9.825 l -2.736,9.825 -6.475,0.001 -2.605,-9.864 -2.848,9.843 H 6.164 c 0,0 6.587,-23.706 7.015,-25.27 h 6.049 l 2.847,10.57 2.903,-10.57 5.936,-10e-4 5.08,18.407 h 11.835 c 0.817,-0.039 1.953,0.184 2.288,-0.819 A 1.23,1.23 0 0 0 49.819,21.378 C 49.52,21.117 49.148,21.044 48.758,21.044 L 42.394,21.043 C 39.379,20.95 36.384,18.978 35.267,16.076 34.058,13.172 34.765,9.691 36.979,7.443 38.542,5.876 40.402,5.095 42.581,5.002 l 20.878,-0.018 4.207,6.065 4.352,-6.083 z"
+     fill="#ffffff"
+     id="path6"
+     inkscape:export-filename="logo.png"
+     inkscape:export-xdpi="662.60718"
+     inkscape:export-ydpi="662.60718" />
   <path
-     d="M135.089 30.318c.426-2.998 8.133-4.832 8.133-11.38 0-6.238-4.34-7.826-8.133-7.826-3.792 0-7.833 2.873-7.833 7.585v1.774h5.692v-1.284c0-1.62.794-2.633 2.202-2.633s2.077.828 2.077 2.509c0 3.793-6.423 5.323-9.112 10.096-1.153 2.037-1.226 6.116-1.226 6.116h15.968v-4.956h-7.768z"
-     id="path8" />
+     d="m 97.406,30.318 c 0.426,-2.998 8.133,-4.832 8.133,-11.38 0,-6.238 -4.34,-7.826 -8.133,-7.826 -3.792,0 -7.833,2.873 -7.833,7.585 v 1.774 h 5.692 v -1.284 c 0,-1.62 0.794,-2.633 2.202,-2.633 1.408,0 2.077,0.828 2.077,2.509 0,3.793 -6.423,5.323 -9.112,10.096 -1.153,2.037 -1.226,6.116 -1.226,6.116 h 15.968 v -4.956 h -7.768 z"
+     id="path8"
+     inkscape:export-filename="logo.png"
+     inkscape:export-xdpi="662.60718"
+     inkscape:export-ydpi="662.60718" />
 </svg>

@@ -11,10 +11,10 @@
    version="1.1"
    id="svg10"
    sodipodi:docname="logo.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    inkscape:export-filename="logo.png"
-   inkscape:export-xdpi="442.07355"
-   inkscape:export-ydpi="442.07355"
+   inkscape:export-xdpi="680.36853"
+   inkscape:export-ydpi="680.36853"
    width="105.539"
    height="35.275002">
   <metadata
@@ -25,6 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,18 +43,23 @@
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      id="namedview12"
-     showgrid="true"
+     showgrid="false"
      inkscape:zoom="6.9206845"
      inkscape:cx="36.369416"
      inkscape:cy="28.148833"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg10">
+     inkscape:current-layer="svg10"
+     inkscape:document-rotation="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <inkscape:grid
        type="xygrid"
        id="grid36"
-       originx="-37.682999"
+       originx="-37.682998"
        originy="0.0010017395" />
   </sodipodi:namedview>
   <path
